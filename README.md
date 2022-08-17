@@ -1,4 +1,6 @@
 # Mobile-Store-Management-System
+Please refer to 'Working Screenshots' folder for workings proof.
+
 This is an Online Mobile Store Management System Project in PHP. This project is a sort of eCommerce website or an online shop/store. The application gives an online platform for the mobile store's clients or possible clients to explore, browse, and order their desired product. The project has an online payment feature using PayPal API. This system has lots of features and functionalities which are commonly found on an eCommerce website. It has a pleasant user interface and user-friendly functionalities.
 
 About the Online Mobile Store Management System
@@ -83,13 +85,23 @@ Download the provided source code zip file. (download button is located below)
 # Installation/Setup
 
 Open your XAMPP/WAMP's php.ini file and uncomment the GD Library.
+
 Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
+
 Extract the downloaded source code zip file.
+
 If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+
 Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+
 Create a new database naming mobile_store_db.
+
 Import the provided SQL file. The file is known as mobile_store_db.sql located inside the database folder.
+
 Browse the Online Mobile Store Management System in a browser. i.e. http://localhost/mobile_store/ for the public/client-side and http://localhost/mobile_store/admin for the admin side.
+
 Default Admin Access Information
+
 Username: admin
+
 Password: admin123
